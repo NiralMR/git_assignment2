@@ -8,6 +8,6 @@ public class diff{
     }
 
     public int diffInt(){
-        return a-b;
+        return 2*a-2*b;
     }    
 }
